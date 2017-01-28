@@ -1,0 +1,29 @@
+{
+  "name": "kongou-bot",
+  "version": "0.0.1",
+  "description": "A bot made in Discord Node, also known as the first open-source bot made in the library. ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suiika/Kongou-Bot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "suiika",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suiika/Kongou-Bot/issues"
+  },
+  "homepage": "https://github.com/suiika/Kongou-Bot#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "discord-node": "0.0.6",
+    "github": "^8.1.1",
+    "superagent": "^3.4.0"
+  }
+}
