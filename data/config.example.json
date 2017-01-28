@@ -1,4 +1,6 @@
 {
     "token": "",
-    "logging": false
+    "logging": {
+        "message": true
+    }
 }
